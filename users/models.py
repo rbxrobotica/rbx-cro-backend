@@ -1,6 +1,5 @@
 from django.contrib.auth.models import AbstractUser
 from django.db import models
-from django.contrib import admin
 
 class CustomUser(AbstractUser):
     is_parceiro = models.BooleanField(default=False)
@@ -45,5 +44,4 @@ class Detalhes(models.Model):
         return f"{self.nome} - {self.user.username}"
 
 
-admin.site.register(CustomUser)
-admin.site.register(Detalhes)
+

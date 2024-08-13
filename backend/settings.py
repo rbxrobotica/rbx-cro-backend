@@ -1,6 +1,5 @@
 from pathlib import Path
 from decouple import AutoConfig
-from datetime import timedelta
 import os 
 
 BASE_DIR = Path(__file__).resolve().parent.parent

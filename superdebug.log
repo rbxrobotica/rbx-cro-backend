@@ -31,3 +31,506 @@ Entrei no utils.py
 Entrei no utils.py
 Entrei no utils.py
 Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Peguei o user: lalal@lala.com
+Testei o id: 34
+Peguei o dbuser: lalal@lala.com
+Testei o id do dbuser: 34
+Testei o details: Lalala - lalal@lala.com
+passou pelo utils <html>
+    <head></head>
+    <body>
+      <h1>Novo Usuário Registrado</h1>
+      <p>Um novo usuário foi registrado: lalal@lala.com (lalal@lala.com)</p>
+      <h2>Dados do Usuário</h2>
+      <ul>
+        <li><b>Nome Completo:</b>  </li>
+        <li><b>Username:</b> lalal@lala.com</li>
+        <li><b>Email:</b> lalal@lala.com</li>
+        <li><b>Parceiro:</b> Não</li>
+      </ul>
+      <h2>Dados Pessoais</h2>
+      <ul>
+        <li><b>Nome do Parceiro:</b> </li>
+        <li><b>Email do Parceiro:</b> </li>
+        <li><b>Cpf ou CNPJ do Parceiro:</b> </li>
+        <li><b>Nome Completo:</b> Lalala</li>
+        <li><b>Estado Civil:</b> viuvo</li>
+        <li><b>RG:</b> 454545 (sss</li>
+        <li><b>CPF:</b> 4555</li>
+        <li><b>Data de Nascimento:</b> 06/08/2024</li>
+        <li><b>Celular:</b> 45454</li>
+        <li><b>Renda:</b> 22332.00</li>
+        <li><b>Nome da Mãe:</b> cdcd</li>
+        <li><b>Nome do Pai:</b> cd</li>
+        <li><b>Nacionalidade:</b> cd</li>
+        <li><b>Estado de Residência:</b> cd</li>
+        <li><b>Cidade de Residência:</b> cd</li>
+        <li><b>Classe Profissional:</b> cd</li>
+        <li><b>Profissão:</b> cd</li>
+        <li><b>Valor Patrimonial:</b> 44.00</li>
+        <li><b>PEP:</b> Não</li>
+        <li><b>FATCA:</b> Não</li>
+        <li><b>Telefones Adicionais:</b> 34334</li>
+        <li><b>Telefones Comercial:</b> 343443</li>
+        <li><b>Nome da Referência:</b> 3434</li>
+        <li><b>Telefone da Referência:</b> 3434</li>
+        <li><b>É autônomo:</b> Não</li>
+        <li><b>Nome da Referência Comercial:</b> 34434</li>
+        <li><b>Telefone da Referência Comercial:</b> 343434</li>
+        <li><b>Valor do Financiamento:</b> 3433.00</li>
+        <li><b>Marca do Veículo:</b> cads</li>
+        <li><b>Modelo do Veículo:</b> acds</li>
+        <li><b>Ano de Fabricação do Veículo:</b> 2323</li>
+        <li><b>Placa do Veículo:</b> casddc</li>
+      </ul>
+    </body>
+    </html>
+    
+Email enviado! Message ID: 010f0191487df91a-d36cea51-c52e-4aff-a5eb-da971721ee4f-000000
+Testei o metodo create da classe RegisterSerializer: lalal@lala.com
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Peguei o user: lalal@lala.com
+Testei o id: 1
+Peguei o dbuser: lalal@lala.com
+Testei o id do dbuser: 1
+Testei o details: Lalala - lalal@lala.com
+passou pelo utils <html>
+    <head></head>
+    <body>
+      <h1>Novo Usuário Registrado</h1>
+      <p>Um novo usuário foi registrado: lalal@lala.com (lalal@lala.com)</p>
+      <h2>Dados do Usuário</h2>
+      <ul>
+        <li><b>Nome Completo:</b>  </li>
+        <li><b>Username:</b> lalal@lala.com</li>
+        <li><b>Email:</b> lalal@lala.com</li>
+        <li><b>Parceiro:</b> Não</li>
+      </ul>
+      <h2>Dados Pessoais</h2>
+      <ul>
+        <li><b>Nome do Parceiro:</b> </li>
+        <li><b>Email do Parceiro:</b> </li>
+        <li><b>Cpf ou CNPJ do Parceiro:</b> </li>
+        <li><b>Nome Completo:</b> Lalala</li>
+        <li><b>Estado Civil:</b> viuvo</li>
+        <li><b>RG:</b> 454545 (sss</li>
+        <li><b>CPF:</b> 4555</li>
+        <li><b>Data de Nascimento:</b> 06/08/2024</li>
+        <li><b>Celular:</b> 45454</li>
+        <li><b>Renda:</b> 22332.00</li>
+        <li><b>Nome da Mãe:</b> cdcd</li>
+        <li><b>Nome do Pai:</b> cd</li>
+        <li><b>Nacionalidade:</b> cd</li>
+        <li><b>Estado de Residência:</b> cd</li>
+        <li><b>Cidade de Residência:</b> cd</li>
+        <li><b>Classe Profissional:</b> cd</li>
+        <li><b>Profissão:</b> cd</li>
+        <li><b>Valor Patrimonial:</b> 44.00</li>
+        <li><b>PEP:</b> Não</li>
+        <li><b>FATCA:</b> Não</li>
+        <li><b>Telefones Adicionais:</b> 34334</li>
+        <li><b>Telefones Comercial:</b> 343443</li>
+        <li><b>Nome da Referência:</b> 3434</li>
+        <li><b>Telefone da Referência:</b> 3434</li>
+        <li><b>É autônomo:</b> Não</li>
+        <li><b>Nome da Referência Comercial:</b> 34434</li>
+        <li><b>Telefone da Referência Comercial:</b> 343434</li>
+        <li><b>Valor do Financiamento:</b> 3433.00</li>
+        <li><b>Marca do Veículo:</b> cads</li>
+        <li><b>Modelo do Veículo:</b> acds</li>
+        <li><b>Ano de Fabricação do Veículo:</b> 2323</li>
+        <li><b>Placa do Veículo:</b> casddc</li>
+      </ul>
+    </body>
+    </html>
+    
+Email enviado! Message ID: 010f019148d07918-c995b665-21c8-4b13-91cb-bb42291f3da4-000000
+Testei o metodo create da classe RegisterSerializer: lalal@lala.com
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Peguei o user: 1lalal@lala.com
+Testei o id: 3
+Peguei o dbuser: 1lalal@lala.com
+Testei o id do dbuser: 3
+Testei o details: Lalala - 1lalal@lala.com
+passou pelo utils <html>
+    <head></head>
+    <body>
+      <h1>Novo Usuário Registrado</h1>
+      <p>Um novo usuário foi registrado: 1lalal@lala.com (1lalal@lala.com)</p>
+      <h2>Dados do Usuário</h2>
+      <ul>
+        <li><b>Nome Completo:</b>  </li>
+        <li><b>Username:</b> 1lalal@lala.com</li>
+        <li><b>Email:</b> 1lalal@lala.com</li>
+        <li><b>Parceiro:</b> Não</li>
+      </ul>
+      <h2>Dados Pessoais</h2>
+      <ul>
+        <li><b>Nome do Parceiro:</b> </li>
+        <li><b>Email do Parceiro:</b> </li>
+        <li><b>Cpf ou CNPJ do Parceiro:</b> </li>
+        <li><b>Nome Completo:</b> Lalala</li>
+        <li><b>Estado Civil:</b> viuvo</li>
+        <li><b>RG:</b> 454545 (sss</li>
+        <li><b>CPF:</b> 4555</li>
+        <li><b>Data de Nascimento:</b> 06/08/2024</li>
+        <li><b>Celular:</b> 45454</li>
+        <li><b>Renda:</b> 22332.00</li>
+        <li><b>Nome da Mãe:</b> cdcd</li>
+        <li><b>Nome do Pai:</b> cd</li>
+        <li><b>Nacionalidade:</b> cd</li>
+        <li><b>Estado de Residência:</b> cd</li>
+        <li><b>Cidade de Residência:</b> cd</li>
+        <li><b>Classe Profissional:</b> cd</li>
+        <li><b>Profissão:</b> cd</li>
+        <li><b>Valor Patrimonial:</b> 44.00</li>
+        <li><b>PEP:</b> Não</li>
+        <li><b>FATCA:</b> Não</li>
+        <li><b>Telefones Adicionais:</b> 34334</li>
+        <li><b>Telefones Comercial:</b> 343443</li>
+        <li><b>Nome da Referência:</b> 3434</li>
+        <li><b>Telefone da Referência:</b> 3434</li>
+        <li><b>É autônomo:</b> Não</li>
+        <li><b>Nome da Referência Comercial:</b> 34434</li>
+        <li><b>Telefone da Referência Comercial:</b> 343434</li>
+        <li><b>Valor do Financiamento:</b> 3433.00</li>
+        <li><b>Marca do Veículo:</b> cads</li>
+        <li><b>Modelo do Veículo:</b> acds</li>
+        <li><b>Ano de Fabricação do Veículo:</b> 2323</li>
+        <li><b>Placa do Veículo:</b> casddc</li>
+      </ul>
+    </body>
+    </html>
+    
+Testei o metodo create da classe RegisterSerializer: 1lalal@lala.com
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Peguei o user: 6lalal@lala.com
+Testei o id: 4
+Peguei o dbuser: 6lalal@lala.com
+Testei o id do dbuser: 4
+Testei o details: Lalala - 6lalal@lala.com
+passou pelo utils <html>
+    <head></head>
+    <body>
+      <h1>Novo Usuário Registrado</h1>
+      <p>Um novo usuário foi registrado: 6lalal@lala.com (6lalal@lala.com)</p>
+      <h2>Dados do Usuário</h2>
+      <ul>
+        <li><b>Nome Completo:</b>  </li>
+        <li><b>Username:</b> 6lalal@lala.com</li>
+        <li><b>Email:</b> 6lalal@lala.com</li>
+        <li><b>Parceiro:</b> Não</li>
+      </ul>
+      <h2>Dados Pessoais</h2>
+      <ul>
+        <li><b>Nome do Parceiro:</b> </li>
+        <li><b>Email do Parceiro:</b> </li>
+        <li><b>Cpf ou CNPJ do Parceiro:</b> </li>
+        <li><b>Nome Completo:</b> Lalala</li>
+        <li><b>Estado Civil:</b> viuvo</li>
+        <li><b>RG:</b> 454545 (sss</li>
+        <li><b>CPF:</b> 4555</li>
+        <li><b>Data de Nascimento:</b> 06/08/2024</li>
+        <li><b>Celular:</b> 45454</li>
+        <li><b>Renda:</b> 22332.00</li>
+        <li><b>Nome da Mãe:</b> cdcd</li>
+        <li><b>Nome do Pai:</b> cd</li>
+        <li><b>Nacionalidade:</b> cd</li>
+        <li><b>Estado de Residência:</b> cd</li>
+        <li><b>Cidade de Residência:</b> cd</li>
+        <li><b>Classe Profissional:</b> cd</li>
+        <li><b>Profissão:</b> cd</li>
+        <li><b>Valor Patrimonial:</b> 44.00</li>
+        <li><b>PEP:</b> Não</li>
+        <li><b>FATCA:</b> Não</li>
+        <li><b>Telefones Adicionais:</b> 34334</li>
+        <li><b>Telefones Comercial:</b> 343443</li>
+        <li><b>Nome da Referência:</b> 3434</li>
+        <li><b>Telefone da Referência:</b> 3434</li>
+        <li><b>É autônomo:</b> Não</li>
+        <li><b>Nome da Referência Comercial:</b> 34434</li>
+        <li><b>Telefone da Referência Comercial:</b> 343434</li>
+        <li><b>Valor do Financiamento:</b> 3433.00</li>
+        <li><b>Marca do Veículo:</b> cads</li>
+        <li><b>Modelo do Veículo:</b> acds</li>
+        <li><b>Ano de Fabricação do Veículo:</b> 2323</li>
+        <li><b>Placa do Veículo:</b> casddc</li>
+      </ul>
+    </body>
+    </html>
+    
+Testei o metodo create da classe RegisterSerializer: 6lalal@lala.com
+Entrei no utils.py
+Peguei o user: 22lalal@lala.com
+Testei o id: 5
+Peguei o dbuser: 22lalal@lala.com
+Testei o id do dbuser: 5
+Testei o details: Lalala - 22lalal@lala.com
+passou pelo utils <html>
+    <head></head>
+    <body>
+      <h1>Novo Usuário Registrado</h1>
+      <p>Um novo usuário foi registrado: 22lalal@lala.com (22lalal@lala.com)</p>
+      <h2>Dados do Usuário</h2>
+      <ul>
+        <li><b>Nome Completo:</b>  </li>
+        <li><b>Username:</b> 22lalal@lala.com</li>
+        <li><b>Email:</b> 22lalal@lala.com</li>
+        <li><b>Parceiro:</b> Não</li>
+      </ul>
+      <h2>Dados Pessoais</h2>
+      <ul>
+        <li><b>Nome do Parceiro:</b> </li>
+        <li><b>Email do Parceiro:</b> </li>
+        <li><b>Cpf ou CNPJ do Parceiro:</b> </li>
+        <li><b>Nome Completo:</b> Lalala</li>
+        <li><b>Estado Civil:</b> viuvo</li>
+        <li><b>RG:</b> 454545 (sss</li>
+        <li><b>CPF:</b> 4555</li>
+        <li><b>Data de Nascimento:</b> 06/08/2024</li>
+        <li><b>Celular:</b> 45454</li>
+        <li><b>Renda:</b> 22332.00</li>
+        <li><b>Nome da Mãe:</b> cdcd</li>
+        <li><b>Nome do Pai:</b> cd</li>
+        <li><b>Nacionalidade:</b> cd</li>
+        <li><b>Estado de Residência:</b> cd</li>
+        <li><b>Cidade de Residência:</b> cd</li>
+        <li><b>Classe Profissional:</b> cd</li>
+        <li><b>Profissão:</b> cd</li>
+        <li><b>Valor Patrimonial:</b> 44.00</li>
+        <li><b>PEP:</b> Não</li>
+        <li><b>FATCA:</b> Não</li>
+        <li><b>Telefones Adicionais:</b> 34334</li>
+        <li><b>Telefones Comercial:</b> 343443</li>
+        <li><b>Nome da Referência:</b> 3434</li>
+        <li><b>Telefone da Referência:</b> 3434</li>
+        <li><b>É autônomo:</b> Não</li>
+        <li><b>Nome da Referência Comercial:</b> 34434</li>
+        <li><b>Telefone da Referência Comercial:</b> 343434</li>
+        <li><b>Valor do Financiamento:</b> 3433.00</li>
+        <li><b>Marca do Veículo:</b> cads</li>
+        <li><b>Modelo do Veículo:</b> acds</li>
+        <li><b>Ano de Fabricação do Veículo:</b> 2323</li>
+        <li><b>Placa do Veículo:</b> casddc</li>
+      </ul>
+    </body>
+    </html>
+    
+Testei o metodo create da classe RegisterSerializer: 22lalal@lala.com
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Peguei o user: pp@pp.com
+Testei o id: 6
+Peguei o dbuser: pp@pp.com
+Testei o id do dbuser: 6
+Testei o details: pppp - pp@pp.com
+passou pelo utils <html>
+    <head></head>
+    <body>
+      <h1>Novo Usuário Registrado</h1>
+      <p>Um novo usuário foi registrado: pp@pp.com (pp@pp.com)</p>
+      <h2>Dados do Usuário</h2>
+      <ul>
+        <li><b>Nome Completo:</b>  </li>
+        <li><b>Username:</b> pp@pp.com</li>
+        <li><b>Email:</b> pp@pp.com</li>
+        <li><b>Parceiro:</b> Não</li>
+      </ul>
+      <h2>Dados Pessoais</h2>
+      <ul>
+        <li><b>Nome do Parceiro:</b> </li>
+        <li><b>Email do Parceiro:</b> </li>
+        <li><b>Cpf ou CNPJ do Parceiro:</b> </li>
+        <li><b>Nome Completo:</b> pppp</li>
+        <li><b>Estado Civil:</b> casado</li>
+        <li><b>RG:</b> 23323 (dds</li>
+        <li><b>CPF:</b> 233232</li>
+        <li><b>Data de Nascimento:</b> 21/08/2024</li>
+        <li><b>Celular:</b> 2323</li>
+        <li><b>Renda:</b> 2332.00</li>
+        <li><b>Nome da Mãe:</b> asdc</li>
+        <li><b>Nome do Pai:</b> 23</li>
+        <li><b>Nacionalidade:</b> ascd</li>
+        <li><b>Estado de Residência:</b> asdc</li>
+        <li><b>Cidade de Residência:</b> acd</li>
+        <li><b>Classe Profissional:</b> adc</li>
+        <li><b>Profissão:</b> acds</li>
+        <li><b>Valor Patrimonial:</b> 23.00</li>
+        <li><b>PEP:</b> Não</li>
+        <li><b>FATCA:</b> Não</li>
+        <li><b>Telefones Adicionais:</b> 2323</li>
+        <li><b>Telefones Comercial:</b> 2323</li>
+        <li><b>Nome da Referência:</b> acscd23</li>
+        <li><b>Telefone da Referência:</b> 2332</li>
+        <li><b>É autônomo:</b> Não</li>
+        <li><b>Nome da Referência Comercial:</b> adsc</li>
+        <li><b>Telefone da Referência Comercial:</b> 232</li>
+        <li><b>Valor do Financiamento:</b> 2323.00</li>
+        <li><b>Marca do Veículo:</b> asdc</li>
+        <li><b>Modelo do Veículo:</b> asdc</li>
+        <li><b>Ano de Fabricação do Veículo:</b> 2323</li>
+        <li><b>Placa do Veículo:</b> 2323</li>
+      </ul>
+    </body>
+    </html>
+    
+Testei o metodo create da classe RegisterSerializer: pp@pp.com
+Peguei o user: pppp@pp.com
+Testei o id: 7
+Peguei o dbuser: pppp@pp.com
+Testei o id do dbuser: 7
+Testei o details: pppp - pppp@pp.com
+passou pelo utils <html>
+    <head></head>
+    <body>
+      <h1>Novo Usuário Registrado</h1>
+      <p>Um novo usuário foi registrado: pppp@pp.com (pppp@pp.com)</p>
+      <h2>Dados do Usuário</h2>
+      <ul>
+        <li><b>Nome Completo:</b>  </li>
+        <li><b>Username:</b> pppp@pp.com</li>
+        <li><b>Email:</b> pppp@pp.com</li>
+        <li><b>Parceiro:</b> Não</li>
+      </ul>
+      <h2>Dados Pessoais</h2>
+      <ul>
+        <li><b>Nome do Parceiro:</b> PPP</li>
+        <li><b>Email do Parceiro:</b> ppp@ppp.com</li>
+        <li><b>Cpf ou CNPJ do Parceiro:</b> 22323</li>
+        <li><b>Nome Completo:</b> pppp</li>
+        <li><b>Estado Civil:</b> casado</li>
+        <li><b>RG:</b> 23323 (dds</li>
+        <li><b>CPF:</b> 233232</li>
+        <li><b>Data de Nascimento:</b> 21/08/2024</li>
+        <li><b>Celular:</b> 2323</li>
+        <li><b>Renda:</b> 2332.00</li>
+        <li><b>Nome da Mãe:</b> asdc</li>
+        <li><b>Nome do Pai:</b> 23</li>
+        <li><b>Nacionalidade:</b> ascd</li>
+        <li><b>Estado de Residência:</b> asdc</li>
+        <li><b>Cidade de Residência:</b> acd</li>
+        <li><b>Classe Profissional:</b> adc</li>
+        <li><b>Profissão:</b> acds</li>
+        <li><b>Valor Patrimonial:</b> 23.00</li>
+        <li><b>PEP:</b> Não</li>
+        <li><b>FATCA:</b> Não</li>
+        <li><b>Telefones Adicionais:</b> 2323</li>
+        <li><b>Telefones Comercial:</b> 2323</li>
+        <li><b>Nome da Referência:</b> acscd23</li>
+        <li><b>Telefone da Referência:</b> 2332</li>
+        <li><b>É autônomo:</b> Não</li>
+        <li><b>Nome da Referência Comercial:</b> adsc</li>
+        <li><b>Telefone da Referência Comercial:</b> 232</li>
+        <li><b>Valor do Financiamento:</b> 2323.00</li>
+        <li><b>Marca do Veículo:</b> asdc</li>
+        <li><b>Modelo do Veículo:</b> asdc</li>
+        <li><b>Ano de Fabricação do Veículo:</b> 2323</li>
+        <li><b>Placa do Veículo:</b> 2323</li>
+      </ul>
+    </body>
+    </html>
+    
+Testei o metodo create da classe RegisterSerializer: pppp@pp.com
+Entrei no utils.py
+Entrei no utils.py
+Peguei o user: pppppp@pp.com
+Testei o id: 8
+Peguei o dbuser: pppppp@pp.com
+Testei o id do dbuser: 8
+Testei o details: pppp - pppppp@pp.com
+passou pelo utils <html>
+    <head></head>
+    <body>
+      <h1>Novo Usuário Registrado</h1>
+      <p>Um novo usuário foi registrado: pppppp@pp.com (pppppp@pp.com)</p>
+      <h2>Dados do Usuário</h2>
+      <ul>
+        <li><b>Nome Completo:</b>  </li>
+        <li><b>Username:</b> pppppp@pp.com</li>
+        <li><b>Email:</b> pppppp@pp.com</li>
+        <li><b>Parceiro:</b> Não</li>
+      </ul>
+      <h2>Dados Pessoais</h2>
+      <ul>
+        <li><b>Nome do Parceiro:</b> PPP</li>
+        <li><b>Email do Parceiro:</b> pppp@ppp.com</li>
+        <li><b>Cpf ou CNPJ do Parceiro:</b> 22323</li>
+        <li><b>Nome Completo:</b> pppp</li>
+        <li><b>Estado Civil:</b> casado</li>
+        <li><b>RG:</b> 23323 (dds</li>
+        <li><b>CPF:</b> 233232</li>
+        <li><b>Data de Nascimento:</b> 21/08/2024</li>
+        <li><b>Celular:</b> 2323</li>
+        <li><b>Renda:</b> 2332.00</li>
+        <li><b>Nome da Mãe:</b> asdc</li>
+        <li><b>Nome do Pai:</b> 23</li>
+        <li><b>Nacionalidade:</b> ascd</li>
+        <li><b>Estado de Residência:</b> asdc</li>
+        <li><b>Cidade de Residência:</b> acd</li>
+        <li><b>Classe Profissional:</b> adc</li>
+        <li><b>Profissão:</b> acds</li>
+        <li><b>Valor Patrimonial:</b> 23.00</li>
+        <li><b>PEP:</b> Não</li>
+        <li><b>FATCA:</b> Não</li>
+        <li><b>Telefones Adicionais:</b> 2323</li>
+        <li><b>Telefones Comercial:</b> 2323</li>
+        <li><b>Nome da Referência:</b> acscd23</li>
+        <li><b>Telefone da Referência:</b> 2332</li>
+        <li><b>É autônomo:</b> Não</li>
+        <li><b>Nome da Referência Comercial:</b> adsc</li>
+        <li><b>Telefone da Referência Comercial:</b> 232</li>
+        <li><b>Valor do Financiamento:</b> 2323.00</li>
+        <li><b>Marca do Veículo:</b> asdc</li>
+        <li><b>Modelo do Veículo:</b> asdc</li>
+        <li><b>Ano de Fabricação do Veículo:</b> 2323</li>
+        <li><b>Placa do Veículo:</b> 2323</li>
+      </ul>
+    </body>
+    </html>
+    
+Email enviado! Message ID: 010f01914aea6b27-1e3187b5-e6b9-49ff-93d9-371052824ba2-000000
+Testei o metodo create da classe RegisterSerializer: pppppp@pp.com
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
+Entrei no utils.py
