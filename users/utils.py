@@ -64,7 +64,7 @@ def send_admin_notification(user):
         <li><b>Nome do Pai:</b> {details.pai}</li>
         <li><b>Nacionalidade:</b> {details.nacionalidade}</li>
         <li><b>Estado de Residência:</b> {details.residencia_estado}</li>
-        <li><b>Cidade de Residência:</b> {details.residencial_cidade}</li>
+        <li><b>Cidade de Residência:</b> {details.residencia_cidade}</li>
         <li><b>Estado de Residência:</b> {details.residencia_endereco}</li>
         <li><b>Cidade de Residência:</b> {details.residencial_cep}</li>
         <li><b>Classe Profissional:</b> {details.classe_profissional}</li>
