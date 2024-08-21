@@ -66,7 +66,7 @@ def send_admin_notification(user):
         <li><b>Estado de Residência:</b> {details.residencia_estado}</li>
         <li><b>Cidade de Residência:</b> {details.residencia_cidade}</li>
         <li><b>Endereço de Residência:</b> {details.residencia_endereco}</li>
-        <li><b>CEP de Residência:</b> {details.residencial_cep}</li>
+        <li><b>CEP de Residência:</b> {details.residencia_cep}</li>
         <li><b>Classe Profissional:</b> {details.classe_profissional}</li>
         <li><b>Profissão:</b> {details.profissao}</li>
         <li><b>Valor Patrimonial:</b> {details.valor_patrimonio:.2f}</li>
